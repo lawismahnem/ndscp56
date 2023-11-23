@@ -5,18 +5,15 @@ function Header() {
         <div className="Header-logo">NDSCP</div>
         <ul className="Menu">
           <li>
-            <a className="active" href="#home">
+            <a className="active" href="/">
               Home
             </a>
           </li>
           <li>
-            <a href="#news">News</a>
+            <a href="/news">News</a>
           </li>
           <li>
-            <a href="#contact">Contact</a>
-          </li>
-          <li>
-            <a href="#about">About</a>
+            <a href="/about">About</a>
           </li>
         </ul>
       </div>

@@ -34,7 +34,6 @@ body {
   font-size: larger;
 }
 .Header-Menu{
-  width: 966px;
   margin: 0 auto;
 }
 .Menu  {
@@ -56,16 +55,8 @@ body {
   text-decoration: none;
 }
 
-.Menu li a:hover:not(.active) {
-  background-color: #111;
-}
-
 .Menu li a.active {
   float: right;
-}
-
-.active {
-  background-color: #4CAF50;
 }
 
 .container-body{
@@ -73,4 +64,11 @@ body {
   background:ghostwhite;
   height: 100vh;
   margin: 0 auto;
+}
+
+.News-container{
+  color: #242424;
+}
+.News-container h1{
+  color:red;
 }
