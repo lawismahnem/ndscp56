@@ -18,6 +18,9 @@ function Header() {
             <li>
               <a href="/about">About</a>
             </li>
+            <li>
+              <a href="/dashboard">Dashboard</a>
+            </li>
           </ul>
         </div>
         <div className="Header-auth">

@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "Lawrence",
+      "lname": "Salazar",
+      "email": "lordlawrencesalazar@gmail.com"
+    },
+    {
+      "id": 2,
+      "fname": "Era Vivien",
+      "lname": "Perral",
+      "email": "eravivienperral@gmail.com"
+    }
+  ]
+}
